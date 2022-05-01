@@ -1,0 +1,1 @@
+var f1mod = require('./file1mod.js')
